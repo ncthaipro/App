@@ -1,1 +1,1 @@
-# Làm app "To do list" với ReactJS & NodeJS
+# app "To do list"
