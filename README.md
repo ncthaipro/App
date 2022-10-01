@@ -7,5 +7,5 @@
 ><text>url: http://127.0.0.1:3000/</text>
 
 ># Tạo DB
-><text>mongoDB :https://www.mongodb.com/</text>
+><text>mongoDB :https://www.mongodb.com/</text><br>
 ><text><strong>Note</strong>: Replace <password> : mongodb+srv://ncthai:<password>@cluster0.awldtsh.mongodb.net/test => mongodb+srv://ncthai:thispassword@cluster0.awldtsh.mongodb.net/test.</text>
