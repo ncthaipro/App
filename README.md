@@ -8,3 +8,4 @@
 
 ># Tạo DB
 ><text>mongoDB :https://www.mongodb.com/</text>
+><text><strong>Note</strong>: Replace <password> : mongodb+srv://ncthai:<password>@cluster0.awldtsh.mongodb.net/test => mongodb+srv://ncthai:thispassword@cluster0.awldtsh.mongodb.net/test.</text>
