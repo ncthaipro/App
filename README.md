@@ -1,2 +1,2 @@
 # App "To do list"
-# # Tạo project
+# Tạo project
