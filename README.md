@@ -1,4 +1,4 @@
-# App "To do list"
+# App Kéo Thả "To do list"
 ># Tạo project ở local
 ><code>npm install -g express-generator</code><br>
 ><code>express</code><text>// Ấn Y để tiếp tục</text> <br>
