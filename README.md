@@ -8,7 +8,7 @@
 
 ># Tạo DB
 ><text><strong>mongoDB</strong> :https://www.mongodb.com/</text><br>
-><text><strong>Note 1:</strong> Replace <code><</code>password<code>></code> : mongodb+srv://ncthai:<password>@cluster0.awldtsh.mongodb.net/test => mongodb+srv://ncthai:thispassword@cluster0.awldtsh.mongodb.net/test.</text>
+><text><strong>Note 1:</strong> Replace <code><</code>password<code>></code> : mongodb+srv://ncthai:<code><</code>password<code>></code>@cluster0.awldtsh.mongodb.net/test => mongodb+srv://ncthai:thispassword@cluster0.awldtsh.mongodb.net/test.</text>
 ><text><strong>Note 2:</strong></text><br>
 >Ở file .env sẽ thêm 2 dòng này: <code>PORT=6000</code> & <code>TOKEN_SECRET=thai012746</code><br>
 ><p>Nếu trường hợp gặp lỗi này<code>Cannot find module 'something'</code> thì mình sẽ lên gg install thêm package</p> 
