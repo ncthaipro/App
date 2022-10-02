@@ -12,3 +12,4 @@
 ><text><strong>Note 2:</strong></text><br>
 >Ở file .env sẽ thêm 2 dòng này: <code>PORT=6000</code> & <code>TOKEN_SECRET=thai012746</code>
 ><p>Nếu trường hợp gặp lỗi này<code>Cannot find module 'something'</code> thì mình sẽ lên gg install thêm package</p> 
+><text>Note 3: Các điều để gọi api(Token,..)/</text>
