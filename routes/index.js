@@ -1,11 +1,9 @@
 var express = require('express');
-var router = express();
+var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.send('Hello World. I');
+  res.render('index', { title: 'Express' });
 });
-
-router.listen('3000',() => console.log('Example hello world is running'))
 
 module.exports = router;
