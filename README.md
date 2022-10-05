@@ -13,3 +13,6 @@
 >Ở file .env sẽ thêm 2 dòng này: <code>PORT=6000</code> & <code>TOKEN_SECRET=thai012746</code>
 ><p>Nếu trường hợp gặp lỗi này<code>Cannot find module 'something'</code> thì mình sẽ lên gg install thêm package</p> 
 ><text><strong>Note 3:</strong> Điều kiện để gọi api(Token,..)</text>
+
+>#Authorization
+>
