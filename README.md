@@ -14,5 +14,5 @@
 ><p>Nếu trường hợp gặp lỗi này<code>Cannot find module 'something'</code> thì mình sẽ lên gg install thêm package</p> 
 ><text><strong>Note 3:</strong> Điều kiện để gọi api(Token,..)</text>
 
->#Authorization
+># Authorization
 >
