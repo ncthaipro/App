@@ -24,3 +24,5 @@
 ><text>Sử dụng JWT</text><br>
 ><text>Tạo token cho user</text><br>
 ><text>Update thêm đoạn <code>TOKEN_SECRET=somethingrandom</code> vào file <code>.env</code></text>
+><p><strong>Note 1</strong></p>
+><p><code>Error: secretOrPrivateKey must have a value</code></p>
