@@ -24,6 +24,9 @@
 ><text>Update thêm đoạn <code>TOKEN_SECRET=somethingrandom</code> vào file <code>.env</code></text>
 ><p><strong>Note 1</strong></p>
 ><p><code>Error: secretOrPrivateKey must have a value</code></p>
+
+># Đăng nhập sử dụng API NodeJS
+># Tạo app
 ------------------------------------
 <h1><strong>SOLUTION</strong></h1>
 <p><em><span style="text-decoration: underline;"><strong>Solution 1: </strong></span></em></p>
