@@ -16,7 +16,7 @@
 
 ># Test postman:
 ><p dir="auto">Body/raw/JSON: {"name":"test user","email":"<a href="mailto:ncthai.ivs@gmail.com">ncthai.ivs@gmail.com</a>","password":"12345"}<br />Request URL method POST:&nbsp;<a href="http://localhost:3000/api/auth/register" rel="nofollow">http://localhost:3000/api/auth/register</a><br />Request URL method POST:&nbsp;<a href="http://localhost:3000/api/auth/login" rel="nofollow">http://localhost:3000/api/auth/login</a></p>
-<p dir="auto">Headers &gt; KEY: auth-token; VALUE: stringtoken</p>
+><p dir="auto">Headers &gt; KEY: auth-token; VALUE: stringtoken</p>
   
 ># Authorization
 ><text>Sử dụng JWT</text><br>
