@@ -15,10 +15,8 @@
 ><text><strong>Note 3:</strong> Điều kiện để gọi api(Token,..)</text>
 
 ># Test postman:
-><text>Body/raw/JSON: {"name":"test user","email":"ncthai.ivs@gmail.com","password":"12345"}</text><br>
-><text>Request URL method POST: <code>http://localhost:3000/api/auth/register</code></text></br>
-><text>Request URL method POST: <code>http://localhost:3000/api/auth/login</code></text></br>
-><text>Request URL method GET: <code>http://localhost:3000/api/users</code> </text>
+><p dir="auto">Body/raw/JSON: {"name":"test user","email":"<a href="mailto:ncthai.ivs@gmail.com">ncthai.ivs@gmail.com</a>","password":"12345"}<br />Request URL method POST:&nbsp;<a href="http://localhost:3000/api/auth/register" rel="nofollow">http://localhost:3000/api/auth/register</a><br />Request URL method POST:&nbsp;<a href="http://localhost:3000/api/auth/login" rel="nofollow">http://localhost:3000/api/auth/login</a></p>
+<p dir="auto">Headers &gt; KEY: auth-token; VALUE: stringtoken</p>
   
 ># Authorization
 ><text>Sử dụng JWT</text><br>
