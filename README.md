@@ -15,7 +15,7 @@
 ><text><strong>Note 3:</strong> Điều kiện để gọi api(Token,..)</text>
 
 ># Test postman:
-> 
+><text>Request URL: <code>http://localhost:3000/api/auth/register</code> </text>
 
 ># Authorization
-> <text>Request URL: <code></code> </text>
+
