@@ -34,4 +34,6 @@
 <pre><code>require("dotenv").config();</code></pre>
 <p>Watch more at (<a href="https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value">https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value</a>)</p>
 <p dir="auto"><strong><em>Solution 2:</em></strong></p>
-<p dir="auto">T&ecirc;n app KH&Ocirc;NG đặt chữ IN HOA<br /><br /></p>
+<p dir="auto">T&ecirc;n app KH&Ocirc;NG đặt chữ IN HOA<br /></p>
+<p dir="auto"><strong><em>Solution 3:</em></strong></p>
+<p dir="auto">Update PORT=6000 trong file .env<br /><br /></p>
