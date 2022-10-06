@@ -19,4 +19,6 @@
 ><text>Request URL method GET: <code>http://localhost:3000/api/users</code> </text>
   
 ># Authorization
-
+><text>Sử dụng JWT</text><br>
+><text>Tạo token cho user</text><br>
+><text>Update thêm đoạn <code>TOKEN_SECRET=somethingrandom</code> vào file <code>.env</code></text>
