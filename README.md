@@ -17,6 +17,7 @@
 ># Test postman:
 ><text>Body/raw/JSON: {"name":"test user","email":"ncthai.ivs@gmail.com","password":"12345"}</text><br>
 ><text>Request URL method POST: <code>http://localhost:3000/api/auth/register</code></text></br>
+><text>Request URL method POST: <code>http://localhost:3000/api/auth/login</code></text></br>
 ><text>Request URL method GET: <code>http://localhost:3000/api/users</code> </text>
   
 ># Authorization
