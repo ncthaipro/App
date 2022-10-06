@@ -14,5 +14,24 @@
 ><p>Nếu trường hợp gặp lỗi này<code>Cannot find module 'something'</code> thì mình sẽ lên gg install thêm package</p> 
 ><text><strong>Note 3:</strong> Điều kiện để gọi api(Token,..)</text>
 
+># Test postman:
+><p dir="auto">Body/raw/JSON: {"name":"test user","email":"<a href="mailto:ncthai.ivs@gmail.com">ncthai.ivs@gmail.com</a>","password":"12345"}<br />Request URL method POST:&nbsp;<a href="http://localhost:3000/api/auth/register" rel="nofollow">http://localhost:3000/api/auth/register</a><br />Request URL method POST:&nbsp;<a href="http://localhost:3000/api/auth/login" rel="nofollow">http://localhost:3000/api/auth/login</a></p>
+><p dir="auto">Headers &gt; KEY: auth-token; VALUE: stringtoken</p>
+  
 ># Authorization
->
+><text>Sử dụng JWT</text><br>
+><text>Tạo token cho user</text><br>
+><text>Update thêm đoạn <code>TOKEN_SECRET=somethingrandom</code> vào file <code>.env</code></text>
+><p><strong>Note 1</strong></p>
+><p><code>Error: secretOrPrivateKey must have a value</code></p>
+
+># Đăng nhập sử dụng API NodeJS
+># Tạo app
+------------------------------------
+<h1><strong>SOLUTION</strong></h1>
+<p><em><span style="text-decoration: underline;"><strong>Solution 1: </strong></span></em></p>
+<p>Go to the file app.js. After&nbsp;installing&nbsp;it&nbsp;with&nbsp;npm&nbsp;i&nbsp;dotenv,&nbsp;import&nbsp;it&nbsp;as&nbsp;early&nbsp;as&nbsp;possible&nbsp;in&nbsp;your&nbsp;application&nbsp;main&nbsp;file&nbsp;like&nbsp;this:</p>
+<pre><code>require("dotenv").config();</code></pre>
+<p>Watch more at (<a href="https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value">https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value</a>)</p>
+<p dir="auto"><strong><em>Solution 2:</em></strong></p>
+<p dir="auto">T&ecirc;n app KH&Ocirc;NG đặt chữ IN HOA<br /><br /></p>
