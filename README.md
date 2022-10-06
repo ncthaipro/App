@@ -33,5 +33,5 @@
 <p>Go to the file app.js. After&nbsp;installing&nbsp;it&nbsp;with&nbsp;npm&nbsp;i&nbsp;dotenv,&nbsp;import&nbsp;it&nbsp;as&nbsp;early&nbsp;as&nbsp;possible&nbsp;in&nbsp;your&nbsp;application&nbsp;main&nbsp;file&nbsp;like&nbsp;this:</p>
 <pre><code>require("dotenv").config();</code></pre>
 <p>Watch more at (<a href="https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value">https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value</a>)</p>
-<p dir="auto">Solution 2:</p>
+<p dir="auto"><strong><em>Solution 2:</em></strong></p>
 <p dir="auto">T&ecirc;n app KH&Ocirc;NG đặt chữ IN HOA<br /><br /></p>
