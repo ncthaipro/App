@@ -26,3 +26,7 @@
 ><text>Update thêm đoạn <code>TOKEN_SECRET=somethingrandom</code> vào file <code>.env</code></text>
 ><p><strong>Note 1</strong></p>
 ><p><code>Error: secretOrPrivateKey must have a value</code></p>
+><p><strong>Solution 1: </strong></p>
+><p>Go to the file app.js. After&nbsp;installing&nbsp;it&nbsp;with&nbsp;npm&nbsp;i&nbsp;dotenv,&nbsp;import&nbsp;it&nbsp;as&nbsp;early&nbsp;as&nbsp;possible&nbsp;in&nbsp;your&nbsp;application&nbsp;main&nbsp;file&nbsp;like&nbsp;this:</p>
+><pre><code>require("dotenv").config();</code></pre>
+><p>Watch more at (<a href="https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value">https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value</a>)</p>
