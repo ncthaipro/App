@@ -26,6 +26,9 @@
 ><text>Update thêm đoạn <code>TOKEN_SECRET=somethingrandom</code> vào file <code>.env</code></text>
 ><p><strong>Note 1</strong></p>
 ><p><code>Error: secretOrPrivateKey must have a value</code></p>
+
+
+
 <p><em><span style="text-decoration: underline;"><strong>Solution 1: </strong></span></em></p>
 <p>Go to the file app.js. After&nbsp;installing&nbsp;it&nbsp;with&nbsp;npm&nbsp;i&nbsp;dotenv,&nbsp;import&nbsp;it&nbsp;as&nbsp;early&nbsp;as&nbsp;possible&nbsp;in&nbsp;your&nbsp;application&nbsp;main&nbsp;file&nbsp;like&nbsp;this:</p>
 <pre><code>require("dotenv").config();</code></pre>
