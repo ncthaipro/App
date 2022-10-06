@@ -14,7 +14,7 @@
 ><p>Nếu trường hợp gặp lỗi này<code>Cannot find module 'something'</code> thì mình sẽ lên gg install thêm package</p> 
 ><text><strong>Note 3:</strong> Điều kiện để gọi api(Token,..)</text>
 
-# Test postman:
+># Test postman:
 ><text>Body/raw/JSON: {"name":"test user","email":"ncthai.ivs@gmail.com","password":"12345"}</text><br>
 ><text>Request URL method POST: <code>http://localhost:3000/api/auth/register</code></text></br>
 ><text>Request URL method POST: <code>http://localhost:3000/api/auth/login</code></text></br>
